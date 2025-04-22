@@ -1,0 +1,9 @@
+# modules
+node_modules
+bun.lock
+
+# wrangler
+.wrangler
+
+# mac conf
+.DS_Store
