@@ -14,14 +14,14 @@ this assumes you have a basic understanding of the internet & code
 
 *if you have never used email routing on this domain, click get started & then scroll to the bottom + click "skip getting started". you will need to then click on "enable email routing" in the orange box and add the records.*
 
-1. go to email workers & create a new worker
-2. name it "email" - this is important, if you name it anything else, you msut change wrangler.toml
-3. select "create your own"
-4. once it opens the code editor, close this page - you don't need it anymore
-5. go back to email routing & go to routing rules
-6. change the catch all to active and click edit
-7.  set the action to "send to worker" and the worker as "email"
-8.  click save
+4. go to email workers & create a new worker
+5. name it "email" - this is important, if you name it anything else, you msut change wrangler.toml
+6. select "create your own"
+7. once it opens the code editor, close this page - you don't need it anymore
+8. go back to email routing & go to routing rules
+9. change the catch all to active and click edit
+10.  set the action to "send to worker" and the worker as "email"
+11.  click save
 
 now, you need to set stuff up on the CLI side
 
