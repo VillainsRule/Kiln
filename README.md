@@ -3,7 +3,10 @@
     <h3>automatically verify shell shockers emails created on your domain</h3>
 </div>
 
-<br><br>
+<br>
+
+> [!WARNING]
+> Blue Wizard has begun blocking domains that use Kiln. Use throwaways.
 
 ## Setup
 this assumes you have a basic understanding of the internet & code
